@@ -317,3 +317,15 @@ body {
         margin-bottom: 60px;
     }
 }
+
+@media (min-width: 960px) {
+    .header {
+        background-image: url(../img/desctop-img.png);
+    }
+
+
+
+    .partner {
+        padding-top: 74px;
+    }
+}
