@@ -131,8 +131,6 @@ body {
 }
 
 
-
-
 /* PARTNER */
 .partner {
     padding-top: 72px;
@@ -144,17 +142,12 @@ body {
     margin-bottom: 18px;
 }
 
-.main-box {
+.partner__list {
     margin-bottom: 28px;
 }
 
-.partner__list {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-}
 
-.partner__list-item {
+.partner__list-item-box {
     max-width: 216px;
     margin: 0 auto;
 }
@@ -237,9 +230,6 @@ body {
     font-weight: 700;
     font-size: 14px;
 }
-
-
-
 
 
 @media (max-width: 767px) {
